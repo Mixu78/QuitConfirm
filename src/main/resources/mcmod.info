@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "quitconfirm",
+    "name": "Quit Confirm",
+    "description": "Makes big red x button ask for confirmation before quitting",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Mixu_78"
+    ],
+    "credits": "Mixu, many websites and VikeStep's neat coremodding tutorial",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
